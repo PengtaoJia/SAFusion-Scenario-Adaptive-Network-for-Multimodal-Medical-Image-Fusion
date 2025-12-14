@@ -1,4 +1,4 @@
-# SAFusion-Scenario-Adaptive-Network-for-Multimodal-Medical-Image-Fusion
+# SAFusion：Scenario Adaptive Network for Multimodal Medical Image Fusion
 
 ## 简介
 
