@@ -1,4 +1,4 @@
-# SAFusion: 多模态医学图像融合框架
+# SAFusion-Scenario-Adaptive-Network-for-Multimodal-Medical-Image-Fusion
 
 ## 简介
 
@@ -23,4 +23,4 @@ python test.py
 - [fusion_result/MRI-CT/](file:///C:/Users/11352/Desktop/SAFusion/fusion_result/MRI-CT/)
 - [fusion_result/MRI-PET/](file:///C:/Users/11352/Desktop/SAFusion/fusion_result/MRI-PET/)
 - [fusion_result/MRI-SPECT/](file:///C:/Users/11352/Desktop/SAFusion/fusion_result/MRI-SPECT/)
-# SAFusion-Scenario-Adaptive-Network-for-Multimodal-Medical-Image-Fusion
+
